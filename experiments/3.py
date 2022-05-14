@@ -1,3 +1,5 @@
+# yea idk what this is either, i wrote it when i was 13
+
 #import time
 #start_time = time.time()
 #import math
