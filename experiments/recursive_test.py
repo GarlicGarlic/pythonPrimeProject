@@ -1,4 +1,4 @@
-def addPrime(pList, x, z):
+def addPrime(pList, x, z):    # finds some prime numbers, then uses those to find some more i guess? idk i can't remember
   prime = True
   y = 0
   while primeList[y] < x**(0.5):
